@@ -4,6 +4,12 @@ Raspberry Pi Catのハードウェア情報をまとめたリポジトリです�
 
 商品ページは[こちら](https://www.rt-net.jp/products/raspicat)です。
 
+## 図面データ
+
+* drawing
+  * RasPiCat_wheel_drawing.pdf
+  * RasPiCat_wheel_drawing.jpg
+    * Raspberry Pi Catのホイールのサイズを示した図面
 
 ## CADデータ
 
