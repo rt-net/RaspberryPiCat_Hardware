@@ -2,14 +2,27 @@
 
 Raspberry Pi Catのハードウェア情報をまとめたリポジトリです。
 
-商品ページは[こちら](https://www.rt-net.jp/products/raspicat)です。
+| CADデータ | 製品写真 |
+| :---: | :---: |
+| ![](https://rt-net.github.io/images/raspberry-pi-cat/raspicat_step_cad.png) | ![](https://rt-net.github.io/images/raspberry-pi-cat/raspberry-pi-cat.png) |
+
+
+## 関連ページ
+
+* 商品ページ
+  * https://rt-net.jp/products/raspberry-pi-cat/
+* Raspberry Pi Mouseとの比較
+  * https://www.rt-shop.jp/blog/archives/11058
+* RT Software Tutorials
+  * https://rt-net.github.io/tutorials/raspicat/products.html
 
 ## 図面データ
 
 * drawing
   * RasPiCat_wheel_drawing.pdf
-  * RasPiCat_wheel_drawing.jpg
     * Raspberry Pi Catのホイールのサイズを示した図面
+
+![](https://rt-net.github.io/images/raspberry-pi-cat/drawing_raspicat_wheel.png)
 
 ## CADデータ
 
